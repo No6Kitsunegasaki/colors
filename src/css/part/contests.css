@@ -1,0 +1,20 @@
+.base {
+}
+.row {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+.panel {
+  display: table-cell;
+  color: white;
+  height: 100px;
+  width: 100px;
+  border: solid 1px;
+  margin: 10px 0 0 10px;
+}
+
+
+
+
+
